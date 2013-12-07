@@ -1,0 +1,28 @@
+{
+  "name": "coordAsync",
+  "version": "0.0.1",
+  "description": "Simple Components helps build their bundled applications simply. Unpretentious way we want to help you save time and less development efforts.",
+  "keywords": [
+    "Async",
+    "Asyncrony",
+    "Simple"
+  ],
+  "main": "index",
+  "_id":"coordAsync@0.0.1",
+  "homepage": "https://github.com/stvkoch/coordAsync",
+  "repository" : {
+        "type": "git",
+        "url": "git@github.com:stvkoch/coordAsync.git"
+  },
+  "author": "Steven Koch <stvkoch@gmail.com>",
+  "engines": {
+    "node" : "*"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha":"*",
+    "should":"*"
+  }
+}

@@ -1,6 +1,9 @@
 # Simple coordinate async calls
 
 
+[![Build Status coordAsync stvkoch by travis-ci](https://api.travis-ci.org/stvkoch/coordAsync.png)]
+
+
 
 Example
 	

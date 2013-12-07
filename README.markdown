@@ -1,4 +1,4 @@
-# Simple Coordenate assync calls on js enviroments
+# Simple coordinate async calls
 
 
 
